@@ -2,6 +2,7 @@
   "name": "vpd-api-docs-app",
   "version": "0.1.0",
   "description": "DHIS2 app to display VPD Tracker Swagger docs in documentation mode",
+  "author": "PAHO/CIM",
   "private": true,
   "scripts": {
     "build": "d2-app-scripts build",
