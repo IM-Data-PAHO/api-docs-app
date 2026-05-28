@@ -1,0 +1,23 @@
+{
+  "name": "vpd-api-docs-app",
+  "version": "0.1.0",
+  "description": "DHIS2 app to display VPD Tracker Swagger docs in documentation mode",
+  "private": true,
+  "scripts": {
+    "build": "d2-app-scripts build",
+    "postbuild": "sh scripts/patch-app-icon.sh",
+    "start": "d2-app-scripts start",
+    "test": "d2-app-scripts test",
+    "deploy": "d2-app-scripts deploy"
+  },
+  "dependencies": {
+    "@dhis2/data-engine": "^3.17.0",
+    "js-yaml": "^4.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "swagger-ui-dist": "^5.17.14"
+  },
+  "devDependencies": {
+    "@dhis2/cli-app-scripts": "^12.11.0"
+  }
+}

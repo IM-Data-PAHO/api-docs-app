@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"POT-Creation-Date: 2026-05-28T18:20:12.553Z\n"
+"PO-Revision-Date: 2026-05-28T18:20:12.554Z\n"
+
+msgctxt "Application title"
+msgid "__MANIFEST_APP_TITLE"
+msgstr "VPD API Docs"
+
+msgctxt "Application description"
+msgid "__MANIFEST_APP_DESCRIPTION"
+msgstr "Swagger viewer for VPD Tracker API"
