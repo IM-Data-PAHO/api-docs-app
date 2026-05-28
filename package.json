@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "build": "d2-app-scripts build",
-    "postbuild": "sh scripts/patch-app-icon.sh",
+    "postbuild": "sh scripts/patch-app-icon.sh && sh scripts/sync-build-to-vpd-dhis2-custom.sh",
     "start": "d2-app-scripts start",
     "test": "d2-app-scripts test",
     "deploy": "d2-app-scripts deploy"
