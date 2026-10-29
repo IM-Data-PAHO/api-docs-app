@@ -1,4 +1,9 @@
 node_modules/
 build/
 .d2/
+/scripts/*
 .DS_Store
+generate_metadata_docs.py
+# Local-only build pipeline (icon patch + sync to local deployment folder)
+scripts/
+metadata_cache.json

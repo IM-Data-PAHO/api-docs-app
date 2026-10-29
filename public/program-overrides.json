@@ -1,0 +1,18 @@
+{
+    "ahWrhrzEAD1": {
+        "title": "DHIS2 Tracker API — Acute Flaccid Paralysis (AFP)",
+        "description": {
+            "en": "Submission of **Acute Flaccid Paralysis (AFP)** surveillance cases into the PAHO DHIS2 tracker.",
+            "es": "Envio de casos de vigilancia de **Paralisis Flacida Aguda (PFA)** al tracker de DHIS2 de OPS."
+        },
+        "contact": { "name": "PAHO – CIM Information Systems", "email": "vpd-dhis2@paho.org" }
+    },
+    "Hh5bklmdAw7": {
+        "title": "DHIS2 Tracker API — Measles / Rubella (MR)",
+        "description": {
+            "en": "Submission of **Measles/Rubella (MR)** surveillance cases into the PAHO DHIS2 tracker.",
+            "es": "Envio de casos de vigilancia de **Sarampion/Rubeola (SR)** al tracker de DHIS2 de OPS."
+        },
+        "contact": { "name": "PAHO – CIM Information Systems", "email": "vpd-dhis2@paho.org" }
+    }
+}
